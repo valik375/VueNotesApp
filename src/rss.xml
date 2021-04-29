@@ -1,0 +1,818 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<channel>
+<title>Хабр</title>
+<link>https://habr.com/ru/all//</link>
+<description>
+<![CDATA[ ]]>
+</description>
+<language>ru</language>
+<managingEditor>editor@habr.com</managingEditor>
+<generator>habr.com</generator>
+<pubDate>Tue, 20 Apr 2021 11:34:19 GMT</pubDate>
+<image>
+<link>https://habr.com/ru/</link>
+<url>https://habr.com/images/logo.png</url>
+<title>Хабр</title>
+</image>
+<item>
+<title>
+<![CDATA[ Zero Security: A — этичный хакинг для начинающих ]]>
+</title>
+<guid isPermaLink="true">https://habr.com/ru/post/552822/</guid>
+<link>https://habr.com/ru/post/552822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=552822</link>
+<description>
+<![CDATA[ <p>Zero Security: A - уникальные курсы этичного хакинга и тестирования на проникновение от компании Pentestit. Разработаны специально для новичков в области информационной безопасности, которые хотят связать свою дальнейшую деятельность с ИТ-технологиями и развиваться в этом направлении в качестве профессионалов.</p><p>За время обучения рассмотриваются такие темы как: правовые аспекты информационной безопасности; методы социальной инженерии, которыми пользуются хакеры во время своих атак; инструментарий, используемый для тестирования на проникновение, а также различные виды уязвимостей (SQLi, XSS, LFI/RFI) и способы их поиска и эксплуатации.</p> <a href="https://habr.com/ru/post/552822/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=552822#habracut">Читать далее</a> ]]>
+</description>
+<pubDate>Tue, 20 Apr 2021 10:38:19 GMT</pubDate>
+<dc:creator>pentestit-ru</dc:creator>
+<category>
+<![CDATA[ Блог компании Pentestit ]]>
+</category>
+<category>
+<![CDATA[ Информационная безопасность ]]>
+</category>
+<category>
+<![CDATA[ Тестирование IT-систем ]]>
+</category>
+<category>
+<![CDATA[ Тестирование веб-сервисов ]]>
+</category>
+<category>
+<![CDATA[ pentestit ]]>
+</category>
+<category>
+<![CDATA[ pentest ]]>
+</category>
+<category>
+<![CDATA[ sqlmap ]]>
+</category>
+<category>
+<![CDATA[ burpsuite ]]>
+</category>
+<category>
+<![CDATA[ zero security: a ]]>
+</category>
+</item>
+<item>
+<title>
+<![CDATA[ Наш пациент имеет доступ к карточке, фотографиям вмешательств, γ-снимкам зубов и всем протоколам лечения ]]>
+</title>
+<guid isPermaLink="true">https://habr.com/ru/post/553202/</guid>
+<link>https://habr.com/ru/post/553202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=553202</link>
+<description>
+<![CDATA[ Несколько месяцев назад я рассказывал, как мы делаем стоматологическую клинику и зарабатываем на том, что умеем в хардкорный научный подход. Пожалуй, именно хардкорный научный подход и заставил нас задуматься о том, что прятать данные от пациента и других врачей — как-то, знаете ли, попахивает цеховой системой Средневековья. <br> <br> Пациентам обычно не хватает следующих данных:<br> <br> <ol> <li>Что именно с ними происходит: точный диагноз, то есть записи карточки. </li> <li>Плана лечения — в первую очередь списка вмешательств, их сроков и цен.</li> <li>Всех материалов карточки: результатов всех анализов, всех рентгеновских и иных аппаратных снимков, фотографий внутриротового сканера и так далее. </li> <li>Протоколов лечения: что именно будет делать доктор на следующем приёме и в какой последовательности. </li> </ol><br> Мы всё это открыли для пациента, причём описали не медицинским, а пользовательским языком. <br> <br> <img src="https://habrastorage.org/webt/bf/4g/wm/bf4gwmxylzwatutdpy_nu9gqgqc.png" alt="image"><br> <i>Простой случай кариеса, здесь одна фотография, показывающая, как именно иссечены терапевтом поражённые ткани, вторая уже — восстановление анатомии зуба, конец вмешательства</i><br> <br> Плюс добавили фотопротоколы лечения: состояние до, состояние во время вмешательства и состояние после. То есть всё то, что происходило с пациентом, не только подробно логируется, но и доступно ему самому. <br> <br> Это настолько очевидное решение, что оказалось, что мы сделали это первыми в России. <br> <br> Давайте расскажу, что происходило, это очень интересно экономически и с точки зрения улучшения качества лечения. <a href="https://habr.com/ru/post/553202/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=553202#habracut">Читать дальше &rarr;</a> ]]>
+</description>
+<pubDate>Tue, 20 Apr 2021 11:01:58 GMT</pubDate>
+<dc:creator>ag_belaya_raduga</dc:creator>
+<category>
+<![CDATA[ Блог компании Белая Радуга ]]>
+</category>
+<category>
+<![CDATA[ Управление проектами ]]>
+</category>
+<category>
+<![CDATA[ Научно-популярное ]]>
+</category>
+<category>
+<![CDATA[ Здоровье ]]>
+</category>
+<category>
+<![CDATA[ стоматология ]]>
+</category>
+<category>
+<![CDATA[ клиника ]]>
+</category>
+<category>
+<![CDATA[ приложение ]]>
+</category>
+<category>
+<![CDATA[ зубы ]]>
+</category>
+<category>
+<![CDATA[ кариес ]]>
+</category>
+<category>
+<![CDATA[ лечение ]]>
+</category>
+<category>
+<![CDATA[ ротовая полость ]]>
+</category>
+<category>
+<![CDATA[ снимки зубов ]]>
+</category>
+<category>
+<![CDATA[ пациенты ]]>
+</category>
+<category>
+<![CDATA[ фотопротоколы ]]>
+</category>
+<category>
+<![CDATA[ карточки пациентов ]]>
+</category>
+<category>
+<![CDATA[ доступ к данным ]]>
+</category>
+<category>
+<![CDATA[ карточка ]]>
+</category>
+<category>
+<![CDATA[ анализы и исследования ]]>
+</category>
+</item>
+<item>
+<title>
+<![CDATA[ Как разработать микросхему. Собственный процессор (почти) ]]>
+</title>
+<guid isPermaLink="true">https://habr.com/ru/post/553356/</guid>
+<link>https://habr.com/ru/post/553356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=553356</link>
+<description>
+<![CDATA[ <p>Как же разработать свою сикросхему. Задался я этим вопросом, когда я захотел создать собственный процессор. Пошёл я гуглить и ничего годного не нашёл. Ответы в основном два։ "Ты не сделаешь свой процессор, потому что слишком сложно" и "Забей и собери компьютер из комлектующих".</p><p>Очевидно что это меня не устаивает, поэтому я решил изучить вопрос серьезнее. Оказалось можно сделать свой процессор описав его с помощью Verilog и FPGA. Купил плату в китае, 3 года спокойным теспами написал свой процессор, оттестировал, скомпилировал и залил на FPGA. <strong>Но мне этого не достаточно.</strong></p> <a href="https://habr.com/ru/post/553356/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=553356#habracut">Читать далее</a> ]]>
+</description>
+<pubDate>Tue, 20 Apr 2021 10:22:06 GMT</pubDate>
+<dc:creator>Armleo</dc:creator>
+<category>
+<![CDATA[ FPGA ]]>
+</category>
+<category>
+<![CDATA[ Разработка робототехники ]]>
+</category>
+<category>
+<![CDATA[ Программирование микроконтроллеров ]]>
+</category>
+<category>
+<![CDATA[ Схемотехника ]]>
+</category>
+<category>
+<![CDATA[ Производство и разработка электроники ]]>
+</category>
+<category>
+<![CDATA[ FPGA ]]>
+</category>
+<category>
+<![CDATA[ Verilog ]]>
+</category>
+<category>
+<![CDATA[ Skywater ]]>
+</category>
+<category>
+<![CDATA[ google ]]>
+</category>
+<category>
+<![CDATA[ sky130 ]]>
+</category>
+<category>
+<![CDATA[ openlane ]]>
+</category>
+<category>
+<![CDATA[ yosys ]]>
+</category>
+</item>
+<item>
+<title>
+<![CDATA[ [Перевод] Разработка критически важных алгоритмов, часть 3: Интеграция ]]>
+</title>
+<guid isPermaLink="true">https://habr.com/ru/post/549792/</guid>
+<link>https://habr.com/ru/post/549792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=549792</link>
+<description>
+<![CDATA[ <ol> <li><a href="https://habr.com/ru/company/itelma/blog/509844/">Проектирование</a></li> <li><a href="https://habr.com/ru/company/itelma/blog/510044/">Реализация</a></li> <li> <b>Интеграция</b></li> </ol><br> <br> Все хорошее когда-нибудь заканчивается, хотя этой серии постов это не касается. Хоть они скоро и закончатся, далеко не факт, что они хороши.<br> <br> Мы начинали с подготовки к зарыванию в пучины кода и закончили созданием чего-то минимально функционального – по крайней мере с точки зрения компиляции и прохождения тестов. Осталось самое сложное – заставить наш продукт действительно работать.<br> <br> Хочу предварить этот пост освобождением от ответственности: серебряной пули для интеграции вашего кода не существует (если бы она была, я бы давал консультации и разбогател). Я могу привести лишь рекомендации, которые позволят сделать этот процесс менее болезненным.<br> <br> А эти процессы могут быть очень болезненными. Исходя из своего ограниченного опыта, я могу сказать следующее: когда инженеру впервые приходится связывать большой блок кода с другими большими блоками, он тратит на это много времени и нервов, некоторые даже бьются головой об стену.<br> <br> Но в результате получается что-то, что работает, и это круто. Но, возможно, что еще более важно, вы прокачаетесь и станете немного лучше, сделав это в первый и самый худший раз. (Я бы сказал, что это похоже на написание академической статьи).<br> <a href="https://habr.com/ru/post/549792/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=549792#habracut">Читать дальше &rarr;</a> ]]>
+</description>
+<pubDate>Tue, 20 Apr 2021 10:29:20 GMT</pubDate>
+<dc:creator>Itelma</dc:creator>
+<category>
+<![CDATA[ Блог компании НПП ИТЭЛМА ]]>
+</category>
+<category>
+<![CDATA[ Алгоритмы ]]>
+</category>
+<category>
+<![CDATA[ Управление разработкой ]]>
+</category>
+<category>
+<![CDATA[ Транспорт ]]>
+</category>
+<category>Automotive</category>
+<category>итэлма</category>
+<category>компоненты для автопроизводителей</category>
+<category>электроника для автотранспорта</category>
+<category>ADAS</category>
+<category>Connected Cars</category>
+<category>connectivity</category>
+</item>
+<item>
+<title>
+<![CDATA[ MirkoPC — «док-станция» для Raspberry Pi 4, превращающая «малинку» в полноценный ПК ]]>
+</title>
+<guid isPermaLink="true">https://habr.com/ru/post/553168/</guid>
+<link>https://habr.com/ru/post/553168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=553168</link>
+<description>
+<![CDATA[ <div style="text-align:center;"><img src="https://habrastorage.org/webt/1v/_f/yu/1v_fyu7nqlivqvyskcp-fy5ssxw.jpeg"></div><br> Raspberry Pi 4 Model B — отличный одноплатник, который можно использовать для решения обширного спектра задач. Все бы хорошо, но у платы, в силу ее небольшого размера, ограниченное число портов и коннекторов. Потенциально плата поддерживает гораздо большее их количество, чем реализовали разработчики.<br> <br> Вот бы добавить HDMI, несколько USB, Ethernet! И это уже можно сделать, причем почти без усилий. Разработчик из Польши по имени Mirek предложил собственное решение — своеобразную док-станцию для «малинки», которая превращает ее в полноценный Linux-ПК. На этой плате есть несколько выходов для дисплеев, USB-порты, разъем для подключения PCIe NVMe и кое-что еще.<br> <a href="https://habr.com/ru/post/553168/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=553168#habracut">Читать дальше &rarr;</a> ]]>
+</description>
+<pubDate>Tue, 20 Apr 2021 10:44:23 GMT</pubDate>
+<dc:creator>Greiv656</dc:creator>
+<category>
+<![CDATA[ Блог компании Selectel ]]>
+</category>
+<category>
+<![CDATA[ Разработка на Raspberry Pi ]]>
+</category>
+<category>
+<![CDATA[ Производство и разработка электроники ]]>
+</category>
+<category>
+<![CDATA[ Гаджеты ]]>
+</category>
+<category>
+<![CDATA[ Компьютерное железо ]]>
+</category>
+<category>
+<![CDATA[ raspberry ]]>
+</category>
+<category>
+<![CDATA[ TOFU ]]>
+</category>
+<category>
+<![CDATA[ MirkoPC ]]>
+</category>
+</item>
+<item>
+<title>
+<![CDATA[ SQL HowTo: решаем головоломку «Небоскрёбы» почти без перебора ]]>
+</title>
+<guid isPermaLink="true">https://habr.com/ru/post/552790/</guid>
+<link>https://habr.com/ru/post/552790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=552790</link>
+<description>
+<![CDATA[ <p>Многие знают правила этой головоломки (<a href="http://www.playsudoku.ru/skyscrapers.html">Skyscrapers</a>):</p><p><em>"Перед вами вид сверху на городской квартал. В каждой клетке стоит "небоскреб" высотой, равной числу в этой клетке. Числа с боков сетки означают </em><strong><em>количество "небоскребов", видимых</em></strong><em> из соответствующей строки или столбца, если смотреть от этого числа.</em></p><p><em>Задача: заполнить сетку числами так, чтобы в каждой строке и в каждом столбце </em><strong><em>каждое число использовалось лишь единожды</em></strong><em>."</em></p><p>Понятно, что алгоритмом полного перебора можно решить что угодно, но - за экспоненциальное время. Поэтому мы попробуем написать такой SQL-запрос, который решит нам такую головоломку за приемлемое время.</p><p>Зачем же делать это на SQL? Потому что можем! А заодно потому что это позволит <strong>научиться конструировать "очень сложные запросы"</strong>, что может пригодиться и в обычной работе.</p> <a href="https://habr.com/ru/post/552790/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=552790#habracut">Сломать голову, вывихнуть мозг</a> ]]>
+</description>
+<pubDate>Tue, 20 Apr 2021 10:15:11 GMT</pubDate>
+<dc:creator>Kilor</dc:creator>
+<category>
+<![CDATA[ Блог компании Тензор ]]>
+</category>
+<category>
+<![CDATA[ Ненормальное программирование ]]>
+</category>
+<category>
+<![CDATA[ Занимательные задачки ]]>
+</category>
+<category>
+<![CDATA[ PostgreSQL ]]>
+</category>
+<category>
+<![CDATA[ SQL ]]>
+</category>
+<category>
+<![CDATA[ postgresql ]]>
+</category>
+<category>
+<![CDATA[ sql ]]>
+</category>
+<category>
+<![CDATA[ sql tips and tricks ]]>
+</category>
+<category>
+<![CDATA[ lateral ]]>
+</category>
+<category>
+<![CDATA[ рекурсия ]]>
+</category>
+<category>
+<![CDATA[ json ]]>
+</category>
+<category>
+<![CDATA[ небоскребы ]]>
+</category>
+<category>
+<![CDATA[ grouping sets ]]>
+</category>
+</item>
+<item>
+<title>
+<![CDATA[ FileAuditor на СХД Huawei ]]>
+</title>
+<guid isPermaLink="true">https://habr.com/ru/post/553182/</guid>
+<link>https://habr.com/ru/post/553182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=553182</link>
+<description>
+<![CDATA[ <p>Хвалимся и анонсируем вебинар про аудит файлов в хранилищах Huawei (коротко без злоупотребления вашим вниманием).</p> <a href="https://habr.com/ru/post/553182/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=553182#habracut">Читать далее</a> ]]>
+</description>
+<pubDate>Mon, 19 Apr 2021 12:38:58 GMT</pubDate>
+<dc:creator>SearchInform_team</dc:creator>
+<category>
+<![CDATA[ Блог компании SearchInform ]]>
+</category>
+<category>
+<![CDATA[ Информационная безопасность ]]>
+</category>
+<category>
+<![CDATA[ Хранение данных ]]>
+</category>
+<category>
+<![CDATA[ Хранилища данных ]]>
+</category>
+<category>
+<![CDATA[ СёрчИнформ ]]>
+</category>
+<category>
+<![CDATA[ huawei ]]>
+</category>
+<category>
+<![CDATA[ fileauditor ]]>
+</category>
+<category>
+<![CDATA[ аудит файловых серверов ]]>
+</category>
+<category>
+<![CDATA[ вебинар ]]>
+</category>
+<category>
+<![CDATA[ анонс ]]>
+</category>
+</item>
+<item>
+<title>
+<![CDATA[ Скриптинг в C# или динамическое выполнение в runtime ]]>
+</title>
+<guid isPermaLink="true">https://habr.com/ru/post/553310/</guid>
+<link>https://habr.com/ru/post/553310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=553310</link>
+<description>
+<![CDATA[ <p>умаю, не многие знают, что в C# есть штука на подобии eval из других языков. Благодаря Rosyln API, можно во время выполнения скомпилировать и выполнить C# код. Пример использования можете посмотреть в <a href="https://github.com/Fantoom/CSharpREPL" rel="noopener noreferrer nofollow">моей реализации</a> <a href="https://ru.wikipedia.org/wiki/REPL" rel="noopener noreferrer nofollow">REPL</a>-а для C#.</p><p>Впервые с такой штукой, как REPL, я познакомился когда теребил питона. В мире .NET есть похожая вещь под названием C# Interactive (CSI). Довольно удобная штука, но у нее есть один большой минус — она входит в состав инструментов Visual Studio, так что без установки VS, не получится ее использовать, а чтобы запускать ее без запуска VS, вообще надо лезть в ее недра (а точнее, через консоль запустить C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\Tools\VsDevCmd.bat), что так себе.</p><p>Есть еще такие проекты, как <a href="https://github.com/filipw/dotnet-script" rel="noopener noreferrer nofollow">dotnet-script</a> и <a href="https://www.cs-script.net/" rel="noopener noreferrer nofollow">cs-script</a> (они работают через <a href="https://www.nuget.org/packages/Microsoft.CodeAnalysis.CSharp.Scripting" rel="noopener noreferrer nofollow">Microsoft.CodeAnalysis.CSharp.Scripting</a>), но у них есть фатальный недостаток — они написаны не мной. Вот и появилась мысль, написать свой корявый велосипед, но со своими фичами! (которые тоже коряво работают). После недолгих поисков, мой взор упал на сие чудо: <a href="https://www.nuget.org/packages/Microsoft.CodeAnalysis.CSharp.Scripting" rel="noopener noreferrer nofollow">Microsoft.CodeAnalysis.CSharp.Scripting</a>. Из плюсов — удобный API, возможность выполнять код без классов и namespace-ов.</p><p>Для начала...</p> <a href="https://habr.com/ru/post/553310/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=553310#habracut">Читать далее</a> ]]>
+</description>
+<pubDate>Tue, 20 Apr 2021 07:25:28 GMT</pubDate>
+<dc:creator>Phanto_m</dc:creator>
+<category>
+<![CDATA[ .NET ]]>
+</category>
+<category>
+<![CDATA[ C# ]]>
+</category>
+<category>
+<![CDATA[ .net ]]>
+</category>
+<category>
+<![CDATA[ .net core ]]>
+</category>
+<category>
+<![CDATA[ C# ]]>
+</category>
+<category>
+<![CDATA[ eval ]]>
+</category>
+<category>
+<![CDATA[ roslyn ]]>
+</category>
+</item>
+<item>
+<title>
+<![CDATA[ Используем DevTools в headless Chrome ]]>
+</title>
+<guid isPermaLink="true">https://habr.com/ru/post/553034/</guid>
+<link>https://habr.com/ru/post/553034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=553034</link>
+<description>
+<![CDATA[ <img src="https://habrastorage.org/webt/kf/yk/be/kfykbeszd6_ybabdc10scblsqog.png"><br> <br> Если вы когда-нибудь использовали Puppeteer, то наверняка сталкивались с неудобной отладкой скриптов на удалённых нодах headless Chrome. Часто так не хватает консоли, а лучше полноценной панели инструментов для изучения запросов и логов… хотя постойте. Puppeteer сам по себе построен поверх Chrome DevTools Protocol, значит, наверняка есть куча решений для проброса данных в локальные DevTools? А вот и нет. Есть только два более-менее рабочих инструмента: отладчик для <a href="https://browserless.io" rel="nofollow noopener noreferrer">browserless.io</a> и <a href="https://pptrconsole.com/" rel="nofollow noopener noreferrer">pptrconsole</a>. Второй по функционалу и стабильности уже далеко впереди, поэтому поговорим про него. <a href="https://habr.com/ru/post/553034/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=553034#habracut">Читать дальше &rarr;</a> ]]>
+</description>
+<pubDate>Tue, 20 Apr 2021 08:05:01 GMT</pubDate>
+<dc:creator>host_m</dc:creator>
+<category>
+<![CDATA[ Блог компании VDSina.ru ]]>
+</category>
+<category>
+<![CDATA[ Разработка веб-сайтов ]]>
+</category>
+<category>
+<![CDATA[ Google Chrome ]]>
+</category>
+<category>
+<![CDATA[ Отладка ]]>
+</category>
+<category>
+<![CDATA[ Тестирование веб-сервисов ]]>
+</category>
+<category>
+<![CDATA[ ViewFinder ]]>
+</category>
+<category>
+<![CDATA[ headless Chrome ]]>
+</category>
+<category>
+<![CDATA[ Puppeteer ]]>
+</category>
+<category>
+<![CDATA[ DevTools ]]>
+</category>
+</item>
+<item>
+<title>
+<![CDATA[ Как найти удаленную работу в зарубежной компании. 10 шагов ]]>
+</title>
+<guid isPermaLink="true">https://habr.com/ru/post/553290/</guid>
+<link>https://habr.com/ru/post/553290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=553290</link>
+<description>
+<![CDATA[ <img src="https://habrastorage.org/webt/wv/xk/0y/wvxk0y07ets5wsr27emjavku9pm.jpeg"><br> <br> <p>Каждый год Оксфордский словарь английского языка выбирает «Слово года». Но в 2020-м что-то пошло не так. Издательство Оксфордского университета описало 2020-й как «год, который лишил нас дара речи», и сказало, что к нему невозможно подобрать правильное слово.</p><br> <p>Но на наш взгляд, такое слово всё-таки есть. С прошлого марта в мире резко возросло использование слова «удаленно». Большинство предприятий отошли от традиционной модели офисной работы и стали пытаться организовать труд сотрудников из дома. Для разработчиков из СНГ это прекрасная возможность начать работу в лучших мировых компаниях. Зарплаты за рубежом выше, а возможностей сейчас стало больше, чем когда-либо прежде.</p><br> <p>Мы постоянно исследуем рынок. Публикуем сотни вакансий ежедневно. И сейчас 40% выручки получаем от иностранных компаний, которые в основном нанимают программистов для удаленной работы.</p><br> <p>Вот несколько наблюдений о том, как разработчику найти удаленную работу в 2021 году. И большой список ресурсов, которые могут помочь вам получить хорошую должность.</p> <a href="https://habr.com/ru/post/553290/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=553290#habracut">Читать дальше &rarr;</a> ]]>
+</description>
+<pubDate>Tue, 20 Apr 2021 08:03:27 GMT</pubDate>
+<dc:creator>Arnak</dc:creator>
+<category>
+<![CDATA[ Блог компании gms & g-mate ]]>
+</category>
+<category>
+<![CDATA[ Карьера в IT-индустрии ]]>
+</category>
+<category>
+<![CDATA[ Лайфхаки для гиков ]]>
+</category>
+<category>
+<![CDATA[ Удалённая работа ]]>
+</category>
+<category>
+<![CDATA[ удаленная работа ]]>
+</category>
+<category>
+<![CDATA[ it-компании ]]>
+</category>
+<category>
+<![CDATA[ g-mate ]]>
+</category>
+<category>
+<![CDATA[ кремниевая долина ]]>
+</category>
+<category>
+<![CDATA[ стартапы ]]>
+</category>
+</item>
+<item>
+<title>
+<![CDATA[ [Перевод] Простые советы по написанию чистого кода React-компонентов ]]>
+</title>
+<guid isPermaLink="true">https://habr.com/ru/post/553068/</guid>
+<link>https://habr.com/ru/post/553068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=553068</link>
+<description>
+<![CDATA[ Автор материала, перевод которого мы публикуем сегодня, делится советами, которые помогают делать чище код React-компонентов и создавать проекты, которые масштабируются лучше, чем прежде.<br> <br> <a href="https://habr.com/ru/company/ruvds/blog/553068/"><img src="https://habrastorage.org/webt/aq/t0/hd/aqt0hdhwgmc45nctsfuds7mp2y4.png"></a><br> <a href="https://habr.com/ru/post/553068/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=553068#habracut">Читать дальше &rarr;</a> ]]>
+</description>
+<pubDate>Tue, 20 Apr 2021 09:04:02 GMT</pubDate>
+<dc:creator>ru_vds</dc:creator>
+<category>
+<![CDATA[ Блог компании RUVDS.com ]]>
+</category>
+<category>
+<![CDATA[ Разработка веб-сайтов ]]>
+</category>
+<category>
+<![CDATA[ JavaScript ]]>
+</category>
+<category>
+<![CDATA[ Совершенный код ]]>
+</category>
+<category>
+<![CDATA[ ReactJS ]]>
+</category>
+<category>React</category>
+<category>разработка</category>
+<category>ruvds_перевод</category>
+</item>
+<item>
+<title>
+<![CDATA[ [Перевод] Ретроностальгия: почему мой веб-сайт выглядит как Windows 9x ]]>
+</title>
+<guid isPermaLink="true">https://habr.com/ru/post/553040/</guid>
+<link>https://habr.com/ru/post/553040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=553040</link>
+<description>
+<![CDATA[ Уже долгое время я хотел обновить <a href="https://ash.ms/" rel="nofollow noopener noreferrer">свой веб-сайт</a>, но я не дизайнер, поэтому знал, что мои попытки усовершенствования уже имеющегося выльются в сумбурную мешанину.<br> <br> <div style="text-align:center;"><img src="https://habrastorage.org/webt/bz/_f/w5/bz_fw50dmiydxg4iwnwxnjvyzks.jpeg"></div><br> Я искал новую должность React-разработчика и сильно хотел отточить свои навыки, поэтому подумал, что лучше всего будет создать новый сайт на React.<br> <br> Что касается дизайна… то почему бы не отдать дань уважения одной из самых значимых операционных систем моей юности: Windows 9x. И почему бы ради забавы не сделать его таким, чтобы он умещался на дискете?<br> <a href="https://habr.com/ru/post/553040/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=553040#habracut">Читать дальше &rarr;</a> ]]>
+</description>
+<pubDate>Tue, 20 Apr 2021 08:55:02 GMT</pubDate>
+<dc:creator>host_m</dc:creator>
+<category>
+<![CDATA[ Блог компании VDSina.ru ]]>
+</category>
+<category>
+<![CDATA[ Разработка веб-сайтов ]]>
+</category>
+<category>
+<![CDATA[ ReactJS ]]>
+</category>
+<category>
+<![CDATA[ Дизайн ]]>
+</category>
+<category>ретро сайт</category>
+<category>сайт как Windows</category>
+<category>React</category>
+</item>
+<item>
+<title>
+<![CDATA[ Этичность Искусственного Интеллекта ]]>
+</title>
+<guid isPermaLink="true">https://habr.com/ru/post/553258/</guid>
+<link>https://habr.com/ru/post/553258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=553258</link>
+<description>
+<![CDATA[ <img src="https://habrastorage.org/webt/ci/fh/pk/cifhpki4gc7emmdyvqmx_ombf-a.png"><br> <i>Кадр из игры Deus Ex Mankind Divided с демонстрацией импланта, анализирующего эмоции</i><br> <br> Искусственный интеллект все плотнее входит в нашу жизнь. Его внедряют в разные отрасли, порой даже самые неожиданные. Начинают сбываться одни из самых смелых прогнозов фантастов — ИскИны помогают людям в повседневной жизни. Будут ли сбываться другие прогнозы о порабощении человечества компьютерами и подобное мрачное будущее?<br> <br> Пока сложно судить о том, когда нас поработят роботы. Но может пора задуматься о моральной стороне и решить, насколько этично использовать нейросети в некоторых вопросах? Именно об этом пишет Кейт Кроуфорд в своей статье, опубликованной на сайте Nature, с переводом которой я предлагаю вам ознакомиться и обсудить то, насколько актуальна эта проблема.<br> <a href="https://habr.com/ru/post/553258/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=553258#habracut">Читать дальше &rarr;</a> ]]>
+</description>
+<pubDate>Tue, 20 Apr 2021 07:01:02 GMT</pubDate>
+<dc:creator>owlofmacloud</dc:creator>
+<category>
+<![CDATA[ Блог компании Маклауд ]]>
+</category>
+<category>
+<![CDATA[ Научно-популярное ]]>
+</category>
+<category>
+<![CDATA[ Научная фантастика ]]>
+</category>
+<category>
+<![CDATA[ ai ]]>
+</category>
+<category>
+<![CDATA[ искуственный интеллект ]]>
+</category>
+<category>
+<![CDATA[ разработка ai ]]>
+</category>
+<category>
+<![CDATA[ эмоции AI ]]>
+</category>
+</item>
+<item>
+<title>
+<![CDATA[ [Перевод] HTTPWTF. Необычное в обычном протоколе ]]>
+</title>
+<guid isPermaLink="true">https://habr.com/ru/post/553318/</guid>
+<link>https://habr.com/ru/post/553318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=553318</link>
+<description>
+<![CDATA[ <p><strong><em>Прим. перев.</em></strong><em>: эту статью написал автор Open Source-утилиты </em><a href="https://httptoolkit.tech/"><em><u>HTTP Toolkit</u></em></a><em>, предназначенной для исследования и модификации HTTP(S)-трафика для нужд отладки и тестирования. В материале собраны примечательные особенности стандарта HTTP, которые долгие годы живут вместе с нами, однако не каждый догадывается об их существовании.</em></p><p>Протокол HTTP имеет огромное значение для всей современной разработки — от фронтенда до бэкенда и мобильных систем. Но, как и у любого другого&nbsp; широко распространенного зрелого стандарта, у него в шкафу запрятано несколько любопытных скелетов.</p><p>Часть из этих скелетов — малоизвестные, но вполне полезные функции, другие — странности, унаследованные от прошлых реализаций (на них ежедневно полагаются миллиарды соединений), а некоторые вообще не должны существовать. Что ж, давайте заглянем за занавеску…</p> <a href="https://habr.com/ru/post/553318/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=553318#habracut">Читать далее</a> ]]>
+</description>
+<pubDate>Tue, 20 Apr 2021 08:17:48 GMT</pubDate>
+<dc:creator>zuzzas</dc:creator>
+<category>
+<![CDATA[ Блог компании Флант ]]>
+</category>
+<category>
+<![CDATA[ Сетевые технологии ]]>
+</category>
+<category>
+<![CDATA[ IT-стандарты ]]>
+</category>
+<category>HTTP</category>
+</item>
+<item>
+<title>
+<![CDATA[ Прикручиваем ИИ: оптимизация работы банкоматов ]]>
+</title>
+<guid isPermaLink="true">https://habr.com/ru/post/552732/</guid>
+<link>https://habr.com/ru/post/552732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=552732</link>
+<description>
+<![CDATA[ Всем привет! Это небольшой рассказ про то, как команда Центра компетенции больших данных и искусственного интеллекта в <a href="http://www.lanit.ru" rel="nofollow noopener noreferrer">ЛАНИТ</a> оптимизировала работу банкоматной сети. Упор в статье сделан не на описание подбора параметров и выбор лучшего алгоритма прогнозирования, а на рассмотрение концепции нашего подхода к решению поставленной задачи. Кому интересно, добро пожаловать под кат.<br> <br> <div style="text-align:center;"><img src="https://habrastorage.org/getpro/habr/post_images/151/5bb/15a/1515bb15a33ba0dcee2ad6b24268f410.png"></div><a href="https://www.sondakika.com/haber/haber-tek-bir-sms-in-marifetleri-5835560/" rel="nofollow noopener noreferrer"><i>источник</i></a><br> <a href="https://habr.com/ru/post/552732/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=552732#habracut">Читать дальше &rarr;</a> ]]>
+</description>
+<pubDate>Tue, 20 Apr 2021 07:01:08 GMT</pubDate>
+<dc:creator>ervin-x</dc:creator>
+<category>
+<![CDATA[ Блог компании ГК ЛАНИТ ]]>
+</category>
+<category>
+<![CDATA[ Python ]]>
+</category>
+<category>
+<![CDATA[ Алгоритмы ]]>
+</category>
+<category>
+<![CDATA[ Математика ]]>
+</category>
+<category>
+<![CDATA[ Машинное обучение ]]>
+</category>
+<category>
+<![CDATA[ банкоматы ]]>
+</category>
+<category>
+<![CDATA[ большие данные ]]>
+</category>
+<category>
+<![CDATA[ cleverdata ]]>
+</category>
+<category>
+<![CDATA[ ланит ]]>
+</category>
+</item>
+<item>
+<title>
+<![CDATA[ Прокторинг на стероидах, или как контролировать онлайн-экзамены ]]>
+</title>
+<guid isPermaLink="true">https://habr.com/ru/post/553012/</guid>
+<link>https://habr.com/ru/post/553012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=553012</link>
+<description>
+<![CDATA[ <p>Недавно ProctorEdu и КРОК запустили систему для контроля онлайн-тестирования на экономическом факультете МГУ. Она помогает наблюдать за студентами, которые сдают экзамен.&nbsp;</p><p>Эта система «подсвечивает» нарушения, подсказывает, на кого и на что обратить внимание. В результате один преподаватель может контролировать разом несколько десятков студентов, сидящих у себя дома.</p><p>Такой подход к онлайн-обучению, прокторинг, первыми внедрили Coursera и Udemy. Разработчики ProctorEdu задумали собственную систему прокторинга в 2016 году именно для учебных заведений, но вскоре поняли, что она способна решать другие, более серьезные задачи. </p> <a href="https://habr.com/ru/post/553012/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=553012#habracut">Читать далее</a> ]]>
+</description>
+<pubDate>Tue, 20 Apr 2021 06:30:01 GMT</pubDate>
+<dc:creator>MelkovaCROC</dc:creator>
+<category>
+<![CDATA[ Блог компании КРОК ]]>
+</category>
+<category>
+<![CDATA[ Анализ и проектирование систем ]]>
+</category>
+<category>
+<![CDATA[ Машинное обучение ]]>
+</category>
+<category>
+<![CDATA[ Учебный процесс в IT ]]>
+</category>
+<category>
+<![CDATA[ прокторинг ]]>
+</category>
+<category>
+<![CDATA[ учебный процесс ]]>
+</category>
+<category>
+<![CDATA[ proctoring ]]>
+</category>
+<category>
+<![CDATA[ proctoredu ]]>
+</category>
+<category>
+<![CDATA[ экзамен ]]>
+</category>
+<category>
+<![CDATA[ сертификация ]]>
+</category>
+<category>
+<![CDATA[ онлайн-образование ]]>
+</category>
+<category>
+<![CDATA[ удаленное образование ]]>
+</category>
+<category>
+<![CDATA[ удаленка ]]>
+</category>
+<category>
+<![CDATA[ образование 2.0 ]]>
+</category>
+</item>
+<item>
+<title>
+<![CDATA[ Загрузка Linux с VHD на компьютере с UEFI ]]>
+</title>
+<guid isPermaLink="true">https://habr.com/ru/post/552170/</guid>
+<link>https://habr.com/ru/post/552170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=552170</link>
+<description>
+<![CDATA[ <p>В статье о возможности <a href="https://habr.com/ru/company/domclick/blog/547150/">загружать Linux с VHD</a> был предложен способ загружать Linux на машине с Windows без необходимости разбивать диск на разделы. Но было одно существенное ограничение: рассматривался только вариант загрузки BIOS, т.е. legacy-загрузки. Сейчас появляется всё больше устройств без поддержки режима legacy (например, многие ноутбуки, выпущенные в 2020 году). Поэтому в этой статье будет рассмотрена загрузка Linux с VHD на компьютерах с UEFI.</p> <a href="https://habr.com/ru/post/552170/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=552170#habracut">Читать далее</a> ]]>
+</description>
+<pubDate>Tue, 20 Apr 2021 06:00:01 GMT</pubDate>
+<dc:creator>sorcodiv</dc:creator>
+<category>
+<![CDATA[ Блог компании ДомКлик ]]>
+</category>
+<category>
+<![CDATA[ *nix ]]>
+</category>
+<category>
+<![CDATA[ vhd ]]>
+</category>
+<category>
+<![CDATA[ linux ]]>
+</category>
+<category>
+<![CDATA[ debian ]]>
+</category>
+<category>
+<![CDATA[ grub2 ]]>
+</category>
+</item>
+<item>
+<title>
+<![CDATA[ Извлечь максимум из новостей в интернете, часть 3 ]]>
+</title>
+<guid isPermaLink="true">https://habr.com/ru/post/551836/</guid>
+<link>https://habr.com/ru/post/551836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=551836</link>
+<description>
+<![CDATA[ <p>Продолжение статьи про новости - как я скачиваю подкасты. Первая часть <a href="https://habr.com/ru/post/550642/" rel="noopener noreferrer nofollow">тут</a>, вторая - <a href="https://habr.com/ru/post/551678/" rel="noopener noreferrer nofollow">тут</a>.</p> <a href="https://habr.com/ru/post/551836/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=551836#habracut">Читать далее</a> ]]>
+</description>
+<pubDate>Mon, 19 Apr 2021 06:10:01 GMT</pubDate>
+<dc:creator>AlexGorky</dc:creator>
+<category>
+<![CDATA[ Софт ]]>
+</category>
+<category>
+<![CDATA[ Лайфхаки для гиков ]]>
+</category>
+<category>
+<![CDATA[ 1С ]]>
+</category>
+<category>
+<![CDATA[ RSS ]]>
+</category>
+<category>
+<![CDATA[ atom ]]>
+</category>
+<category>
+<![CDATA[ новости ]]>
+</category>
+</item>
+<item>
+<title>
+<![CDATA[ Digital-мероприятия в Москве c 19 по 25 апреля ]]>
+</title>
+<guid isPermaLink="true">https://habr.com/ru/post/553108/</guid>
+<link>https://habr.com/ru/post/553108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=553108</link>
+<description>
+<![CDATA[ <p>Подборка мероприятий на неделю</p><br> <p><img src="https://habrastorage.org/webt/ar/xg/dn/arxgdnjku3qftfwf77rwwtuoegc.jpeg" alt="image"></p><br> <h2 id="hakaton-dobra-20httpsxn--80aaado8awhcvq6axn--p1aiit"><a href="https://xn--80aaado8awhcvq6a.xn--p1ai/it/" rel="nofollow noopener noreferrer">Хакатон Добра 2.0</a></h2><br> <ul> <li><strong>19 апреля (понедельник) — 28 апреля (среда)</strong></li> <li>онлайн</li> <li>бесплатно</li> <li>Хакатон Добра — проект, направленный на создание IT решений для социально ориентированных некоммерческих организаций</li> </ul><br> <h2 id="holyjs-2021-piter-konferenciya-dlya-javascript-razrabotchikovhttpsholyjs-piterru"><a href="https://holyjs-piter.ru/" rel="nofollow noopener noreferrer">HolyJS 2021 Piter: Конференция для JavaScript-разработчиков</a></h2><br> <ul> <li><strong>20 апреля (вторник) — 23 апреля (пятница)</strong></li> <li>онлайн</li> <li>от 10 000 р.</li> <li>HolyJS 2021 Piter — 20-23 апреля, онлайн. Топовые спикеры и не менее топовые доклады и воркшопы, которые отобраны специальными людьми — так что это будут только полезные для работы материалы без дичи и архаизмов.</li> </ul> <a href="https://habr.com/ru/post/553108/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=553108#habracut">Читать дальше &rarr;</a> ]]>
+</description>
+<pubDate>Mon, 19 Apr 2021 07:09:05 GMT</pubDate>
+<dc:creator>rvnikita</dc:creator>
+<category>
+<![CDATA[ Хакатоны ]]>
+</category>
+<category>
+<![CDATA[ Конференции ]]>
+</category>
+<category>
+<![CDATA[ ивенты ]]>
+</category>
+<category>
+<![CDATA[ конференции ]]>
+</category>
+<category>
+<![CDATA[ митапы ]]>
+</category>
+<category>
+<![CDATA[ meetup ]]>
+</category>
+<category>
+<![CDATA[ conference ]]>
+</category>
+<category>
+<![CDATA[ event ]]>
+</category>
+<category>
+<![CDATA[ events ]]>
+</category>
+<category>
+<![CDATA[ marketing ]]>
+</category>
+<category>
+<![CDATA[ конференция ]]>
+</category>
+<category>
+<![CDATA[ митап ]]>
+</category>
+<category>
+<![CDATA[ хакатон ]]>
+</category>
+<category>
+<![CDATA[ хакатоны. ]]>
+</category>
+</item>
+<item>
+<title>
+<![CDATA[ Проводим ретроспективы для распределенных команд (и как Trello в этом помогает) ]]>
+</title>
+<guid isPermaLink="true">https://habr.com/ru/post/552884/</guid>
+<link>https://habr.com/ru/post/552884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=552884</link>
+<description>
+<![CDATA[ <p>В последнее время я достаточно часто использую Trello, и, должен признаться, выглядит пока Трелло как наилучший инструмент для Ретроспектив и Фидбека по Демо. Так что в этом после попробуем пройтись по теме того, как Trello соотносится с другими аналогичными для этих задач инструментами.</p><p><strong>Инструменты</strong></p><p>Я пользовался большим количеством инструментов, из которых можно выделить основные: <a href="miro.com" rel="noopener noreferrer nofollow">Miro</a> - как интерактивный флипчарт, с которым может взаимодействовать вся командa; <a href="drive.google.com" rel="noopener noreferrer nofollow">Google Docs</a> с секциями помапанными на стадии ретроспектив; <a href="atlassian.com" rel="noopener noreferrer nofollow">Confluence</a> (так как все мои проекты пронзены Atlassian-стеком); а также, порой, Jira (вау, это была достаточно плохая идея)!</p><p>Я думаю что все пытались нащупать тот самый инструмент, который можно применить фактически в любой области!</p><p>И вот я бы выделил основными критериями для проведения Ретро и собирания фидбека о Демо в подобных инструментах: </p><p>1. Насколько хорошо оно работает на уровне объектов (во время обсуждений). -&gt; в идеале тут хотелось бы видеть карточки (все таки мы в физическом мире работаем со стикерами) </p><p>2. Быстрая и эффективная работа с карточками / объектами</p><p>3. Подсветка / теги для карточек / объектив (чтоб все могли), не важно как (цвет, тег, еще какая-то штука позволяющая дифференцировать карточки)</p><p>4. Перетасовка / изменение порядка карточек / объектов / айтемов</p><p>5. Как можно меньшее время, затраченное на следующую последовательность действий: создание секции (списка) -&gt; добавление в него объектов / карточек -&gt; тегирование / подсветка айтемов (членами команды) -&gt; добавление комментария к айтему.</p> <a href="https://habr.com/ru/post/552884/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=552884#habracut">Читать далее</a> ]]>
+</description>
+<pubDate>Mon, 19 Apr 2021 07:14:08 GMT</pubDate>
+<dc:creator>Eskimo</dc:creator>
+<category>
+<![CDATA[ Управление проектами ]]>
+</category>
+<category>
+<![CDATA[ Agile ]]>
+</category>
+<category>
+<![CDATA[ Развитие стартапа ]]>
+</category>
+<category>
+<![CDATA[ DevOps ]]>
+</category>
+<category>
+<![CDATA[ Удалённая работа ]]>
+</category>
+<category>
+<![CDATA[ scrum ]]>
+</category>
+<category>
+<![CDATA[ scrum-мастер ]]>
+</category>
+<category>
+<![CDATA[ agile ]]>
+</category>
+<category>
+<![CDATA[ retrospective ]]>
+</category>
+<category>
+<![CDATA[ ретроспектива ]]>
+</category>
+<category>
+<![CDATA[ ретроспектива проекта ]]>
+</category>
+<category>
+<![CDATA[ удаленная работа ]]>
+</category>
+<category>
+<![CDATA[ trello ]]>
+</category>
+<category>
+<![CDATA[ гибкие методологии ]]>
+</category>
+<category>
+<![CDATA[ управление проектами ]]>
+</category>
+</item>
+</channel>
+</rss>
